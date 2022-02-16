@@ -48,7 +48,7 @@
 
 
 ### Lista de Tarefas: (Basta usar traço simples espaço e abrir e fechar colchetes com espaço)
-##### Para tarefas realizadas 
+
 - [ ] Criar página principal 
 - [ ] Termiar o script
 - [ ] Versionar um projeto antigo
