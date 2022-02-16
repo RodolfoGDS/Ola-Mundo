@@ -19,15 +19,40 @@
 ##############################################
 
 # Lista numerda
+
+
 ### Criação de ítens: (Basta colocar o numero 1 seguido de ponto)
 1. item
 2. item 2
 3. item 3
 
-### Criando subitens: (Basta dar espaço no numero seguinte)
+### Criando subitens: (Basta dar espaço ou Tab no numero seguinte)
 1. item 1
       1. subitem
       2. subitem
 
 
 
+### lista com marcadores: ( Basta usar o asterisco * ou o traço simples -,
+###                        o uso do espaço e Tab serve para subitens)
+
+* item1
+* item2
+    * item3
+    *  item3
+
+- item1
+- item2
+    - item3
+    - item3
+
+
+### Lista de Tarefas: (Basta usar traço simples espaço e abrir e fechar colchetes)
+##### Para tarefas realizadas 
+- [] Criar página principal 
+- [] Termiar o script
+- [] Versionar um projeto antigo
+- [] Finalizar o teste
+##### Para tarefas realizadas basta colocar o x dentro dos colchetes.
+- [x] Versionar um projeto antigo
+- [x] Finalizar o teste
