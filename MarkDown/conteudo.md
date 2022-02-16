@@ -58,5 +58,10 @@
 - [x] Finalizar o teste
 
 
-#### Inserindo uma imagem de uma URL:
-![imagem do google](https://www.google.com/search?q=carro&rlz=1C1GCEU_pt-BRBR864BR864&sxsrf=APq-WBvR5reNPfZVMzsG1ZvVYnoa2GXk1Q:1645028227248&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjurYXZz4T2AhUbIrkGHeZzA8gQ_AUoAXoECAEQAw&biw=1536&bih=754&dpr=1.25#imgrc=kfHe2EetNI49CM)
+#### Criando uma tabela --> Usar pipe | para dividir as coulunas e ---|---| para linhas
+| Num | Nome | Nota
+---|---|---|
+1 | Rodolfo | 5,00
+---|---|---|
+2 | Pedro | 8,00
+
