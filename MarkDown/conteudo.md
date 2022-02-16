@@ -47,12 +47,12 @@
     - item3
 
 
-### Lista de Tarefas: (Basta usar traço simples espaço e abrir e fechar colchetes)
+### Lista de Tarefas: (Basta usar traço simples espaço e abrir e fechar colchetes com espaço)
 ##### Para tarefas realizadas 
-- [] Criar página principal 
-- [] Termiar o script
-- [] Versionar um projeto antigo
-- [] Finalizar o teste
+- [ ] Criar página principal 
+- [ ] Termiar o script
+- [ ] Versionar um projeto antigo
+- [ ] Finalizar o teste
 ##### Para tarefas realizadas basta colocar o x dentro dos colchetes.
 - [x] Versionar um projeto antigo
 - [x] Finalizar o teste
